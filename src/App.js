@@ -1,5 +1,5 @@
 import React from "react"
-import {BrowserRouter as Router, Switch, Route, BrowserRouter} from "react-router-dom"
+import {HashRouter as Router, Switch, Route, BrowserRouter} from "react-router-dom"
 import { useState} from 'react'
 import { Header } from "./components/Header"
 import { AnimeBase } from './components/AnimeBase'
